@@ -1,0 +1,60 @@
+.navbar{
+    padding: 20px 10px 20px 0px;
+    background-color: #56e056;
+    transition: all ease 0.4s;
+    height: 100px !important;
+    margin-top: 0% !important;
+  }
+  .navbar-brand{
+    font-size: 22px;
+    color: white !important;
+  }
+  .navbar .navbar-nav li a{
+    font-size: 16px;
+    color: white;
+  }
+  
+  /* Animation */
+  .animate{
+    padding: 0px 10px 0px 0px;
+    transition: all ease 0.4s;
+  }
+  
+  /* Jumbotron */
+  .jumbotron{
+    margin-top: 110px;
+  }
+  .header{
+      margin-left: 5%;
+  }
+  h1{
+      margin: 5%;
+  }
+  
+  .logo{
+      width: 80px;
+      height: 70px;
+  }
+  .subdiv{
+    width: 60%;
+    /* margin-bottom: 20%; */
+   margin-left: 20%;
+   margin-top: 8%;
+   box-shadow: 5px 5px 15px -5px black;
+   border-radius: 10px;
+   margin-bottom: 10%;
+  }
+  .btn{
+    background-color:  #56e056;
+    margin-left: 70% !important;
+    border-radius: 5px;
+    border: 2px solid white;
+  }
+  .btn:hover{
+    background-color: #56e056!important;
+    color: white !important;
+    border: 2px solid black;
+  }
+  .input{
+    margin: 5%;
+  }
